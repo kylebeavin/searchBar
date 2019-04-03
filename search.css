@@ -1,0 +1,26 @@
+body {
+    background-color: bisque;
+    padding: 50px;
+}
+
+.container {
+    margin: auto;
+    width: 30%;
+    background-color: lightgray;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.center-align {
+    margin: auto;
+    width: 50%;
+    font-family: 'Courier New', Courier, monospace;
+    color: teal;
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+    border-radius: 12px;
+    border-color: teal;
+    border-style: solid;
+    border-width: 5px;
+}
